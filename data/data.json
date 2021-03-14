@@ -1,0 +1,37 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "-",
+            "servers": {}
+        },
+        "owners": [
+            "814329136512237618"
+        ]
+    },
+    "discord": {
+        "servers": {},
+        "members": {},
+        "users": {
+            "228537642583588864": {
+                "KickCount": 1
+            },
+            "491171358965891072": {
+                "money": 250,
+                "cooldowndaily": "2021-03-11T00:24:24.454Z"
+            },
+            "378374493372153857": {
+                "money": 150,
+                "warn": 0,
+                "warn reason": [
+                    "Warned for: Oi fucking respond lmao",
+                    "Warned for: "
+                ]
+            },
+            "544327719748501535": {
+                "warn": 0
+            }
+        }
+    },
+    "blocks": {},
+    "custom": {}
+}
