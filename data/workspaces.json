@@ -1,6 +1,80 @@
 [
     {
         "info": {
+            "title": "My New Workspace",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "command_event_with_text",
+                "info": {
+                    "x": 576,
+                    "y": 249,
+                    "z": 1,
+                    "color": "#5a5a5a",
+                    "height": 406.5,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_slowmode": "uKzwLBvBH5"
+                },
+                "options": {
+                    "command_name": "fush",
+                    "custom_prefix": "",
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "k4SIKJlmfh"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "channel": [
+                        "xk95BjtbqT"
+                    ],
+                    "user": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "Chad_send_message",
+                "info": {
+                    "x": 1479,
+                    "y": 293,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 303.5,
+                    "width": 463
+                },
+                "inputs": {
+                    "action": "k4SIKJlmfh",
+                    "channel": "xk95BjtbqT",
+                    "embed": "R0ZNHLOHFP",
+                    "attachment": "fLKavpAXOu",
+                    "text1": "zdpyoBSRgP",
+                    "text2": "kIBy7COeHx",
+                    "text3": "rr2sbP0jI3",
+                    "text4": "NbU3E1uUQ3"
+                },
+                "options": {
+                    "TTS": "false",
+                    "smsg": "false",
+                    "text": "EZ"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            }
+        ],
+        "notes": []
+    },
+    {
+        "info": {
             "title": "Ticket System",
             "description": "\n",
             "thumbnail": ""
